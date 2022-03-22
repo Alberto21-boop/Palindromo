@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DAs22TCEuOTdtuquGTAu30ruDtoU2NQt5K6aaF36Fn3meSio8EEvYh/JIT1YYG0ke87MwlwyuU12DHz7pVPTOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alberto.barbosa\\source\\repos\\plaindromo.21\\plaindromo.21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alberto.barbosa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

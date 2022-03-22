@@ -1,0 +1,16 @@
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.exe
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.deps.json
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.runtimeconfig.json
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.runtimeconfig.dev.json
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.dll
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\ref\plaindromo.21.dll
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\bin\Debug\net5.0\plaindromo.21.pdb
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.csproj.AssemblyReference.cache
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.AssemblyInfoInputs.cache
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.AssemblyInfo.cs
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.csproj.CoreCompileInputs.cache
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.dll
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\ref\plaindromo.21.dll
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.pdb
+C:\Users\alberto.barbosa\source\repos\plaindromo.21\obj\Debug\net5.0\plaindromo.21.genruntimeconfig.cache
